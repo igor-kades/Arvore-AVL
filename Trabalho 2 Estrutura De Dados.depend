@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1528321075 source:d:\daniel admin\desktop\codeblocks\estrutura de dados\trabalho 2 estrutura de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528320689 source:d:\daniel admin\desktop\codeblocks\estrutura de dados\trabalho 2 estrutura de dados\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528321075 d:\daniel admin\desktop\codeblocks\estrutura de dados\trabalho 2 estrutura de dados\avl.h
+
+1528455302 source:c:\devc\trabalho 2 estrutura de dados\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528307440 c:\devc\trabalho 2 estrutura de dados\avl.h
+
+1528458254 source:c:\devc\trabalho 2 estrutura de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528444288 source:c:\users\vict0\documents\trabalho 2 estrutura de dados\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528444288 c:\users\vict0\documents\trabalho 2 estrutura de dados\avl.h
+
+1528836275 source:c:\users\vict0\documents\trabalho 2 estrutura de dados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528821982 source:d:\daniel admin\downloads\trabalho 2 estrutura de dados i-20180621t192747z-001\trabalho 2 estrutura de dados i\trabalho 2 ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528821982 d:\daniel admin\downloads\trabalho 2 estrutura de dados i-20180621t192747z-001\trabalho 2 estrutura de dados i\trabalho 2 ed\avl.h
+
+1528821982 source:d:\daniel admin\downloads\trabalho 2 estrutura de dados i-20180621t192747z-001\trabalho 2 estrutura de dados i\trabalho 2 ed\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528821982 source:d:\daniel admin\desktop\trabalho 2 ed\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1528821982 d:\daniel admin\desktop\trabalho 2 ed\avl.h
+
+1529611286 source:d:\daniel admin\desktop\trabalho 2 ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1529597184 source:c:\users\vict0\documents\code blocks\trabalho 2 ed\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1529597186 c:\users\vict0\documents\code blocks\trabalho 2 ed\avl.h
+
+1529597184 source:c:\users\vict0\documents\code blocks\trabalho 2.1 ed\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1529597186 c:\users\vict0\documents\code blocks\trabalho 2.1 ed\avl.h
+
+1529956625 source:c:\users\vict0\documents\code blocks\trabalho 2.1 ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1558473708 source:c:\devc\trab_arv_avl\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1558473710 c:\devc\trab_arv_avl\avl.h
+
+1559697108 source:c:\devc\trab_arv_avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+	<windows.h>
+	<locale.h>
+
